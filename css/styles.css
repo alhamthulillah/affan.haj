@@ -1,0 +1,12 @@
+ * {
+       font-family: "Open Sans", sans-serif;
+
+ }
+.banner {
+    background-image: url(/islam/image/haram.jpg);
+    background-size: cover;
+    padding: 250px 0;
+}
+.skills-padding {
+    padding: 70px 0;
+}

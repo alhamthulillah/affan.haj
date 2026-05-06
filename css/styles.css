@@ -5,8 +5,11 @@
 .banner {
     background-image: url(../image/haram.jpg);
     background-size: cover;
-    padding: 250px 0;
+    padding: 300px 0;
 }
 .skills-padding {
-    padding: 70px 0;
+    padding: 300px 0;
+}
+.about-padding {
+    padding: 300px 0;
 }

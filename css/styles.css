@@ -3,7 +3,7 @@
 
  }
 .banner {
-    background-image: url(/islam/image/haram.jpg);
+    background-image: url(../image/haram.jpg);
     background-size: cover;
     padding: 250px 0;
 }
